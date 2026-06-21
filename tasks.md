@@ -9,6 +9,7 @@
 - [x] 保存 Agent 项目结构与实施计划：见 `docs/agent-project-plan.md`。
 - [x] 初始化本地 Git 仓库，并补充根 `README.md` 与 `.gitignore`。
 - [x] 绑定 GitHub 远程仓库：`https://github.com/mulinguo97-oss/Legal-Agent-1.0.git`。
+- [x] 调研 GitHub 相似开源项目并整理参考文档：见 `docs/reference-projects.md`。
 - [ ] 确认 MVP 范围是否拍板。
 - [ ] 确认第一版技术栈。
 - [ ] 确认第一版优先合同类型。
