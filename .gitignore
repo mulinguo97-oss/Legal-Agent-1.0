@@ -1,0 +1,49 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Node / TypeScript
+node_modules/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Python 临时文件
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# 日志与运行时文件
+logs/
+*.log
+tmp/
+temp/
+
+# 本地上传、对象存储、向量库、数据库数据
+uploads/
+storage/
+.minio/
+.qdrant/
+.postgres/
+.redis/
+
+# 生成报告与导出文件
+reports/generated/
+exports/
+
+# 依赖包管理器缓存
+.npm/
+.pnpm-store/
+.yarn/
+
