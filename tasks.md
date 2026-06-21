@@ -11,6 +11,7 @@
 - [x] 绑定 GitHub 远程仓库：`https://github.com/mulinguo97-oss/Legal-Agent-1.0.git`。
 - [x] 调研 GitHub 相似开源项目并整理参考文档：见 `docs/reference-projects.md`。
 - [x] 编写总体架构文档：见 `docs/architecture.md`。
+- [x] 制定严谨制作流程并预留未来扩展路径：见 `docs/build-process.md`。
 - [ ] 确认 MVP 范围是否拍板。
 - [ ] 确认第一版技术栈。
 - [ ] 确认第一版优先合同类型。
